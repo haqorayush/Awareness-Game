@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import './App.css';
 
 const Quiz = () => {
